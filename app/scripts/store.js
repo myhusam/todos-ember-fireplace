@@ -1,3 +1,3 @@
 TodosEmberFireplace.Store = FP.Store.extend({
-  firebaseRoot: "https://fireplace-ember.firebaseio.com"
+  firebaseRoot: "https://<your-firebasename>.firebaseio.com"
 });
